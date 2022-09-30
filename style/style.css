@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+header{
+    width: 100%;
+    min-height: 30vh;
+    background: linear-gradient(145deg, rgba(176,216,255,255),rgba(184,183,255,255),rgba(186,174,255,255),rgba(174,255,182,255))
+}
+header h1{
+    font-size: 64px;
+    padding: 4rem 2rem;
+}
+
+.bg-pastelgreen{
+    background-color: rgba(174,255,182,255);
+    border-style: none;
+}
+
